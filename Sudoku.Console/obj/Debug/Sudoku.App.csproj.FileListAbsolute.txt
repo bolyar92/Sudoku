@@ -1,0 +1,8 @@
+C:\Users\Nasko\Desktop\Sudoku\Sudoku.Console\bin\Debug\Sudoku.App.exe.config
+C:\Users\Nasko\Desktop\Sudoku\Sudoku.Console\bin\Debug\Sudoku.App.exe
+C:\Users\Nasko\Desktop\Sudoku\Sudoku.Console\bin\Debug\Sudoku.App.pdb
+C:\Users\Nasko\Desktop\Sudoku\Sudoku.Console\bin\Debug\Sudoku.Lib.dll
+C:\Users\Nasko\Desktop\Sudoku\Sudoku.Console\bin\Debug\Sudoku.Lib.pdb
+C:\Users\Nasko\Desktop\Sudoku\Sudoku.Console\obj\Debug\Sudoku.App.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Desktop\Sudoku\Sudoku.Console\obj\Debug\Sudoku.App.exe
+C:\Users\Nasko\Desktop\Sudoku\Sudoku.Console\obj\Debug\Sudoku.App.pdb
